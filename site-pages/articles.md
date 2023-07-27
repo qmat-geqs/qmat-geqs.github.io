@@ -12,9 +12,9 @@ Since it was first developed by Sir Robert S. Ball at the end of the XIXth centu
 ## Content
 - [GenScrew](../index.md)
 - **Articles**
-  - [New Approach to Screw Theory](site-pages/articles.md#new-approach-to-screw-theory)
-- [Projects](site-pages/projects.md)
-  - [GScrew](site-pages/projects.md#gscrew)
-- [References](site-pages/references.md)
-  - [Geometric Algebra Primer](site-pages/references.md#geometric-algebra-primer)
-  - [The Inner Products of Geometric Algebra](site-pages/references.md#the-inner-products-of-geometric-algebra)
+  - [New Approach to Screw Theory](articles.md#new-approach-to-screw-theory)
+- [Projects](projects.md)
+  - [GScrew](projects.md#gscrew)
+- [References](references.md)
+  - [Geometric Algebra Primer](references.md#geometric-algebra-primer)
+  - [The Inner Products of Geometric Algebra](references.md#the-inner-products-of-geometric-algebra)

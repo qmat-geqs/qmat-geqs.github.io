@@ -18,10 +18,10 @@ Making derived products out of the geometric product requires care in consistenc
 
 ## Content
 - [GenScrew](../index.md)
-- [Articles](site-pages/articles.md)
-  - [New Approach to Screw Theory](site-pages/articles.md#new-approach-to-screw-theory)
-- [Projects](site-pages/projects.md)
-  - [GScrew](site-pages/projects.md#gscrew)
+- [Articles](articles.md)
+  - [New Approach to Screw Theory](articles.md#new-approach-to-screw-theory)
+- [Projects](projects.md)
+  - [GScrew](projects.md#gscrew)
 - **References**
-  - [Geometric Algebra Primer](site-pages/references.md#geometric-algebra-primer)
-  - [The Inner Products of Geometric Algebra](site-pages/references.md#the-inner-products-of-geometric-algebra)
+  - [Geometric Algebra Primer](references.md#geometric-algebra-primer)
+  - [The Inner Products of Geometric Algebra](references.md#the-inner-products-of-geometric-algebra)

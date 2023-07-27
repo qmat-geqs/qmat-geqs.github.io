@@ -9,10 +9,10 @@ You will find here the various projects we are carrying out to automate calculat
 
 ## Content
 - [GenScrew](../index.md)
-- [Articles](site-pages/articles.md)
-  - [New Approach to Screw Theory](site-pages/articles.md#new-approach-to-screw-theory)
+- [Articles](articles.md)
+  - [New Approach to Screw Theory](articles.md#new-approach-to-screw-theory)
 - **Projects**
-  - [GScrew](site-pages/projects.md#gscrew)
-- [References](site-pages/references.md)
-  - [Geometric Algebra Primer](site-pages/references.md#geometric-algebra-primer)
-  - [The Inner Products of Geometric Algebra](site-pages/references.md#the-inner-products-of-geometric-algebra)
+  - [GScrew](projects.md#gscrew)
+- [References](references.md)
+  - [Geometric Algebra Primer](references.md#geometric-algebra-primer)
+  - [The Inner Products of Geometric Algebra](references.md#the-inner-products-of-geometric-algebra)

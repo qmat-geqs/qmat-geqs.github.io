@@ -8,20 +8,19 @@ GenScrew is a group of physics students aiming to develop a new theory of screws
 
 ## Contact us
 
-### Loris Delafosse
-> Student in physics, Faculty of Physics and Engineering, University of Strasbourg.
-> 
-> [Contact Loris Delafosse](mailto:loris.delafosse@etu.unistra.fr)
-
+### Loris Delafosse [![Contact Loris Delafosse](icons/email_icon_small.jpg)](mailto:loris.delafosse@etu.unistra.fr)
+*Student in physics, Faculty of Physics and Engineering, University of Strasbourg.*
+ 
 Here is some description about its work.
 
 We can even make some multilines description!
 
 
-### Antoine Royer [Send an email](mailto:antoine.royer@univ-tlse3.fr)
-Student in physics, Faculty of Sciences and Engineering, University of Toulouse III (Paul Sabatier).
+### Antoine Royer
+[![Contact Antoine Royer](icons/email_icon.jpg)](mailto:antoine.royer@univ-tlse3.fr)
+*Student in physics, Faculty of Sciences and Engineering, University of Toulouse III (Paul Sabatier).*
 
-> I Manage the IT part of the project, providing and maintaining a Python work environment.
+I Manage the IT part of the project, providing and maintaining a fully documented Python package.
 
 ## Content
 - **GenScrew**
