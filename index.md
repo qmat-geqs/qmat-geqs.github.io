@@ -4,7 +4,6 @@ Welcome on the GenScrew website!
 
 GenScrew is a group of physics students aiming to develop a new theory of screws with multivectors and Clifford algebras.
 
-## Content
 - **GenScrew**
 - [Articles](site-pages/articles.md)
   - [New Approach to Screw Theory](site-pages/articles.md#new-approach-to-screw-theory)
