@@ -6,15 +6,7 @@ Welcome on the GenScrew website!
 
 GenScrew is a group of physics students aiming to develop a new theory of screws with multivectors and Clifford algebras.
 
-## Content
-
-- [Articles](site-pages/articles.md)
-- [Projects](site-pages/projects.md)
-- [References](site-pages/references.md)
-  - [Geometric Algebra Primer](site-pages/references.md#geometric-algebra-primer)
-
 ## Contact us
-Our team is composed of:
 
 ### Loris Delafosse
 > Student in physics, Faculty of Physics and Engineering, University of Strasbourg.
@@ -26,12 +18,20 @@ Here is some description about its work.
 We can even make some multilines description!
 
 
-### Antoine Royer
-> Student in physics, Faculty of Sciences and Engineering, University of Toulouse III (Paul Sabatier).
-> 
-> [Contact Antoine Royer](mailto:antoine.royer@univ-tlse3.fr)
+### Antoine Royer [Send an email](mailto:antoine.royer@univ-tlse3.fr)
+Student in physics, Faculty of Sciences and Engineering, University of Toulouse III (Paul Sabatier).
 
-I Manage the IT part of the project, providing and maintaining a Python work environment.
+> I Manage the IT part of the project, providing and maintaining a Python work environment.
+
+## Content
+- **GenScrew**
+- [Articles](site-pages/articles.md)
+  - [New Approach to Screw Theory](site-pages/articles.md#new-approach-to-screw-theory)
+- [Projects](site-pages/projects.md)
+  - [GScrew](site-pages/projects.md#gscrew)
+- [References](site-pages/references.md)
+  - [Geometric Algebra Primer](site-pages/references.md#geometric-algebra-primer)
+  - [The Inner Products of Geometric Algebra](site-pages/references.md#the-inner-products-of-geometric-algebra)
 
 
 

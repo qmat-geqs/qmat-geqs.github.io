@@ -1,8 +1,5 @@
 # References
-
 Here you can find all the reference we read for this project.
-
-[Back Home](../index.md)
 
 ## Geometric Algebra Primer
 > Jaap Suter — March 12, 2003
@@ -19,4 +16,12 @@ we obtain an algebra that allows subspace arithmetic. It turns out that being ab
 
 Making derived products out of the geometric product requires care in consistency. We show how a split based on outer product and scalar product necessitates a slightly different inner product than usual. We demonstrate the use and geometric significance of this contraction, and show how it simplifies treatment of meet and join. We also derive the sufficient condition for covariance of expressions involving outer and inner products.
 
-
+## Content
+- [GenScrew](../index.md)
+- [Articles](site-pages/articles.md)
+  - [New Approach to Screw Theory](site-pages/articles.md#new-approach-to-screw-theory)
+- [Projects](site-pages/projects.md)
+  - [GScrew](site-pages/projects.md#gscrew)
+- **References**
+  - [Geometric Algebra Primer](site-pages/references.md#geometric-algebra-primer)
+  - [The Inner Products of Geometric Algebra](site-pages/references.md#the-inner-products-of-geometric-algebra)
