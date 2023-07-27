@@ -11,7 +11,7 @@ GenScrew is a group of physics students aiming to develop a new theory of screws
 ### Loris Delafosse
 > *Student in physics, Faculty of Physics and Engineering, University of Strasbourg.*
 > 
-> [![Contact Loris Delafosse](icons/email_icon3.jpg)](mailto:loris.delafosse@etu.unistra.fr)
+> [![Contact Loris Delafosse](icons/email_icon.jpg)](mailto:loris.delafosse@etu.unistra.fr)
 
 Some content will be there soon!
 
