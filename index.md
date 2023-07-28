@@ -15,14 +15,12 @@ GenScrew is a group of physics students aiming to develop a new theory of screws
 
 ## News
 
-<d1>
-<dt>July 27, 2023</dt>
-<dd>Version 1.0.6 of the GScrew Python package is released. <a href="site-pages/projects.md#gscrew">See more</a></dd>
+### July 27, 2023
+> Version 1.0.6 of the GScrew Python package is released. [See more](site-pages/projects.md#gscrew)
 
-<dt>June 14, 2023</dt>
-<dd>Loris' first article on the new formalism is finished. <a href="site-pages/articles.md#new-approach-to-screw-theory">See more</a></dd>
+### June 14, 2023
+> Loris' first article on the new formalism is finished. [See more](site-pages/articles.md#new-approach-to-screw-theory)
 
-</d1>
 
 * * * 
 
