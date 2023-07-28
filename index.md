@@ -9,6 +9,7 @@ GenScrew is a group of physics students aiming to develop a new theory of screws
   - [New Approach to Screw Theory](site-pages/articles.md#new-approach-to-screw-theory)
 - [Projects](site-pages/projects.md)
   - [GScrew](site-pages/projects.md#gscrew)
+  - [GSL](projects.md#gsl)
 - [References](site-pages/references.md)
   - [Geometric Algebra Primer](site-pages/references.md#geometric-algebra-primer)
   - [The Inner Products of Geometric Algebra](site-pages/references.md#the-inner-products-of-geometric-algebra)

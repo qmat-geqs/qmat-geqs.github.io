@@ -6,6 +6,7 @@ Here you can find all the reference we read for this project.
   - [New Approach to Screw Theory](articles.md#new-approach-to-screw-theory)
 - [Projects](projects.md)
   - [GScrew](projects.md#gscrew)
+  - [GSL](projects.md#gsl)
 - **References**
   - [Geometric Algebra Primer](references.md#geometric-algebra-primer)
   - [The Inner Products of Geometric Algebra](references.md#the-inner-products-of-geometric-algebra)

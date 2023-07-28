@@ -7,6 +7,7 @@ You can find the various articles and papers we have written on our new formalis
   - [New Approach to Screw Theory](articles.md#new-approach-to-screw-theory)
 - [Projects](projects.md)
   - [GScrew](projects.md#gscrew)
+  - [GSL](projects.md#gsl)
 - [References](references.md)
   - [Geometric Algebra Primer](references.md#geometric-algebra-primer)
   - [The Inner Products of Geometric Algebra](references.md#the-inner-products-of-geometric-algebra)
