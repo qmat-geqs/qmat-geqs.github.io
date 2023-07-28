@@ -9,7 +9,7 @@ GenScrew is a group of physics students aiming to develop a new theory of screws
   - [New Approach to Screw Theory](site-pages/articles.md#new-approach-to-screw-theory)
 - [Projects](site-pages/projects.md)
   - [GScrew](site-pages/projects.md#gscrew)
-  - [GSL](projects.md#gsl)
+  - [GSL](site-pages/projects.md#gsl)
 - [References](site-pages/references.md)
   - [Geometric Algebra Primer](site-pages/references.md#geometric-algebra-primer)
   - [The Inner Products of Geometric Algebra](site-pages/references.md#the-inner-products-of-geometric-algebra)
@@ -17,6 +17,9 @@ GenScrew is a group of physics students aiming to develop a new theory of screws
 * * * 
 
 ## News
+
+### July 28, 2023
+> GSL (Generalized Screw Library), a C++ library implementing generalized screws, is launched. [See more](site-pages/projects.md#gsl)
 
 ### July 27, 2023
 > Version 1.0.6 of the GScrew Python package is released. [See more](site-pages/projects.md#gscrew)
