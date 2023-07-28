@@ -2,14 +2,14 @@
 
 Welcome on the GenScrew website!
 
-GenScrew is a group of physics students aiming to develop a new theory of screws with multivectors and Clifford algebras.
+We are a group of physics students aiming to develop new geometrical tools for fundamental physics, notably through geometric algebras (real Clifford algebras) and generalized screw theory.
 
 - **GenScrew**
 - [Articles](site-pages/articles.md)
-  - [New Approach to Screw Theory](site-pages/articles.md#new-approach-to-screw-theory)
+  - [A New Approach to Screw Theory using Geometric Algebra](site-pages/articles.md#new-approach-to-screw-theory)
 - [Projects](site-pages/projects.md)
   - [GScrew](site-pages/projects.md#gscrew)
-  - [GSL](site-pages/projects.md#gsl)
+  - [GSCL](site-pages/projects.md#gscl)
 - [References](site-pages/references.md)
   - [Geometric Algebra Primer](site-pages/references.md#geometric-algebra-primer)
   - [The Inner Products of Geometric Algebra](site-pages/references.md#the-inner-products-of-geometric-algebra)
@@ -19,7 +19,7 @@ GenScrew is a group of physics students aiming to develop a new theory of screws
 ## News
 
 ### July 28, 2023
-> GSL (Generalized Screw Library), a C++ library implementing generalized screws, is launched. [See more](site-pages/projects.md#gsl)
+> GSCL (Generalized Screw Calculus Library), a C++ library implementing generalized screws, is launched. [See more](site-pages/projects.md#gscl)
 
 ### July 27, 2023
 > Version 1.0.6 of the GScrew Python package is released. [See more](site-pages/projects.md#gscrew)
@@ -34,7 +34,7 @@ GenScrew is a group of physics students aiming to develop a new theory of screws
 > 
 > [![Contact Loris Delafosse](icons/email_icon.jpg)](mailto:loris.delafosse@etu.unistra.fr)
 
-Some content will be there soon!
+Perhaps, if you're patient enough, some content will be added here!
 
 ### Antoine Royer
 > *Student in physics, Faculty of Sciences and Engineering, University of Toulouse III (Paul Sabatier).*

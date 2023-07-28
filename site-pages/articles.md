@@ -4,15 +4,15 @@ You can find the various articles and papers we have written on our new formalis
 
 - [GenScrew](../index.md)
 - **Articles**
-  - [New Approach to Screw Theory](articles.md#new-approach-to-screw-theory)
+  - [A New Approach to Screw Theory using Geometric Algebra](articles.md#new-approach-to-screw-theory)
 - [Projects](projects.md)
   - [GScrew](projects.md#gscrew)
-  - [GSL](projects.md#gsl)
+  - [GSCL](projects.md#gscl)
 - [References](references.md)
   - [Geometric Algebra Primer](references.md#geometric-algebra-primer)
   - [The Inner Products of Geometric Algebra](references.md#the-inner-products-of-geometric-algebra)
 
-## New Approach to Screw Theory
+## A New Approach to Screw Theory using Geometric Algebra
 > Loris Delafosse — June 14, 2023
 > 
 > [Read this article](../pdfs/New_Approach_to_Screw_Theory.pdf)

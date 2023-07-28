@@ -1,12 +1,12 @@
 # References
-Here you can find all the reference we read for this project.
+Here you can find useful references and bibliographic ressources related to our projects.
 
 - [GenScrew](../index.md)
 - [Articles](articles.md)
-  - [New Approach to Screw Theory](articles.md#new-approach-to-screw-theory)
+  - [A New Approach to Screw Theory using Geometric Algebra](articles.md#new-approach-to-screw-theory)
 - [Projects](projects.md)
   - [GScrew](projects.md#gscrew)
-  - [GSL](projects.md#gsl)
+  - [GSCL](projects.md#gscl)
 - **References**
   - [Geometric Algebra Primer](references.md#geometric-algebra-primer)
   - [The Inner Products of Geometric Algebra](references.md#the-inner-products-of-geometric-algebra)
