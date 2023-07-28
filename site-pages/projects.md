@@ -18,5 +18,5 @@ You will find here the various projects we are carrying out to automate calculat
 - [Pypi package](https://pypi.org/project/GScrew/)
 
 ## GSL
-Generalized Screw Library is a future library written in C++ that will implement n-dimensional geometric algebras and generalized screws to perform fast calculations on these objects.
+[Generalized Screw Library](https://github.com/GenScrew/GSL) (a.k.a. GSL) is a future library written in C++ that will implement n-dimensional geometric algebras and generalized screws to perform fast calculations on these objects.
 
