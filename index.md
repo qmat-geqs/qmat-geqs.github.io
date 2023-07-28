@@ -13,6 +13,19 @@ GenScrew is a group of physics students aiming to develop a new theory of screws
   - [Geometric Algebra Primer](site-pages/references.md#geometric-algebra-primer)
   - [The Inner Products of Geometric Algebra](site-pages/references.md#the-inner-products-of-geometric-algebra)
 
+## News
+
+<d1>
+<dt>July 27, 2023</dt>
+<dd>Version 1.0.6 of the GScrew Python package is released. [See more](site-pages/projects.md#gscrew)</dd>
+
+<dt>June 14, 2023</dt>
+<dd>Loris' first article on the new formalism is finished. [See more](site-pages/articles.md#new-approach-to-screw-theory)</dd>
+
+</d1>
+
+* * * 
+
 ## Who are we?
 
 ### Loris Delafosse
