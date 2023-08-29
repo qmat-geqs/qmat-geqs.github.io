@@ -20,3 +20,7 @@ You will find here the various projects we are carrying out to automate calculat
 ## GSCL
 [Generalized Screw Calculus Library](https://github.com/GenScrew/GSCL) (a.k.a. GSCL) is a future library written in C++ that will implement n-dimensional geometric algebras and generalized screws to perform fast calculations on these objects.
 
+## Test
+Let be $L_e \in \mathbb R$,
+$$L_e = \int_0^{+\infty} \frac{1}{x^2} \textrm dx$$
+
