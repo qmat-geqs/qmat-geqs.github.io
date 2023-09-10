@@ -1,10 +1,10 @@
-# GenScrew
+# Geometry for Quantum Sciences (GeQS)
 
-Welcome on the GenScrew website!
+Welcome on the GeQS website!
 
 We are a group of physics students aiming to develop new geometrical tools for fundamental physics, notably through geometric algebras (real Clifford algebras) and generalized screw theory.
 
-- **GenScrew**
+- **GeQS**
 - [Articles](articles.md)
   - [A New Approach to Screw Theory using Geometric Algebra](articles.md#new-approach-to-screw-theory)
 - [Projects](projects.md)
@@ -38,7 +38,7 @@ We are a group of physics students aiming to develop new geometrical tools for f
 Perhaps, if you're patient enough, some content will be added here!
 
 ### Antoine Royer
-> *Student in physics, Faculty of Sciences and Engineering, University of Toulouse III (Paul Sabatier).*
+> *Student in oceanography, atmospheric physics and climatology, Faculty of Sciences and Engineering, University of Toulouse III (Paul Sabatier).*
 
 I Manage the IT part of the project, providing and maintaining a fully documented Python package.
 

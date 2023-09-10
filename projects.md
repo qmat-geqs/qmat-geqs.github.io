@@ -2,7 +2,7 @@
 
 You will find here the various projects we are carrying out to automate calculations on generalized screws and coscrews.
 
-- [GenScrew](index.md)
+- [GeQS](index.md)
 - [Articles](articles.md)
   - [A New Approach to Screw Theory using Geometric Algebra](articles.md#new-approach-to-screw-theory)
 - **Projects**

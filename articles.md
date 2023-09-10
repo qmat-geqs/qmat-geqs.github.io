@@ -2,7 +2,7 @@
 
 You can find the various articles and papers we have written on our new formalism and its applications here.
 
-- [GenScrew](index.md)
+- [GeQS](index.md)
 - **Articles**
   - [A New Approach to Screw Theory using Geometric Algebra](articles.md#new-approach-to-screw-theory)
 - [Projects](projects.md)

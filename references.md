@@ -1,7 +1,7 @@
 # References
 Here you can find useful references and bibliographic ressources related to our projects.
 
-- [GenScrew](index.md)
+- [GeQS](index.md)
 - [Articles](articles.md)
   - [A New Approach to Screw Theory using Geometric Algebra](articles.md#new-approach-to-screw-theory)
 - [Projects](projects.md)
