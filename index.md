@@ -58,7 +58,6 @@ Specialist in 3-simplexes.
 Specialist in polymer physics.
 
 ### Antoine Royer
-> *Student in oceanography, atmospheric physics and climatology, Faculty of Sciences and Engineering, University of Toulouse III (Paul Sabatier).*
+> *Student in oceanography, atmospheric physics and climatology and TESS member, Faculty of Sciences and Engineering, University of Toulouse III (Paul Sabatier).*
 
-I manage the IT part of the project, providing and maintaining a fully documented Python package.
-
+The group's computer technician.
