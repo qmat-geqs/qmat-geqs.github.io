@@ -1,8 +1,8 @@
-# Geometry for Quantum Science (GeQS)
+# Geometry for Quantum Science
 
 Welcome on the GeQS website!
 
-We are a group of physics students aiming to develop new geometrical tools for fundamental physics, notably through geometric algebras (real Clifford algebras) and generalized screw theory.
+The Geometry for Quantum Science (GeQS) research group is a group of students mainly based at the University of Strasbourg, and organized around the Faculty of Physics and Engineering and the Quantum Science and Nanomaterials Interdisciplinary Thematic Insitute (QMat). It aims at developping new theoretical and computational tools for fundamental physics, namely through Geometric Algebra (real Clifford algebras) and generalized screw theory.
 
 - **GeQS**
 - [Articles](articles.md)
@@ -22,7 +22,7 @@ We are a group of physics students aiming to develop new geometrical tools for f
 > Version 1.0.7 of the GScrew Python package is released [See more](projects.md#gscrew)
 
 ### July 28, 2023
-> The development of GSCL (Generalized Screw Calculus Library), a C++ library implementing generalized screws, begin. [See more](projects.md#gscl)
+> The development of GSCL (Generalized Screw Calculus Library), a C++ library implementing generalized screws, begins. [See more](projects.md#gscl)
 
 ### July 24, 2023
 > Start of the development of GScrew, a Python package for generalized screws. [See more](projects.md#gscrew)
@@ -32,13 +32,33 @@ We are a group of physics students aiming to develop new geometrical tools for f
 
 ## Who are we?
 
-### Loris Delafosse
-> *Student in physics, Faculty of Physics and Engineering, University of Strasbourg.*
+### Romain Beauclaire
+> *Student in mathematics, Department of Mathematics and Computer Science, University of Strasbourg.*
 
-Perhaps, if you're patient enough, some content will be added here!
+The group's mathematician.
+
+### Simon Beaudoin
+> *Student in fundamental physics and QMat member, Faculty of Physics and Engineering, University of Strasbourg.*
+
+Feynman's first fan.
+
+### Loris Delafosse
+> *Student in fundamental physics and QMat member, Faculty of Physics and Engineering, University of Strasbourg.*
+
+Coordinator of the GeQS research group.
+
+### Amr Hussein
+> *Student in fundamental physics, Faculty of Physics and Engineering, University of Strasbourg.*
+
+Specialist in 3-simplexes.
+
+### Maxence Pandini
+> *Student in fundamental physics and QMat member, Faculty of Physics and Engineering, University of Strasbourg.*
+
+Specialist in polymer physics.
 
 ### Antoine Royer
 > *Student in oceanography, atmospheric physics and climatology, Faculty of Sciences and Engineering, University of Toulouse III (Paul Sabatier).*
 
-I Manage the IT part of the project, providing and maintaining a fully documented Python package.
+I manage the IT part of the project, providing and maintaining a fully documented Python package.
 
