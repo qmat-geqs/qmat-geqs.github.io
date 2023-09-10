@@ -1,4 +1,4 @@
-# Geometry for Quantum Sciences (GeQS)
+# Geometry for Quantum Science (GeQS)
 
 Welcome on the GeQS website!
 
