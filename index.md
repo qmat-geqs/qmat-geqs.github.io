@@ -2,7 +2,7 @@
 
 Welcome on the GeQS website!
 
-The Geometry for Quantum Science (GeQS) research group is a group of students mainly based at the University of Strasbourg, and organized around the Faculty of Physics and Engineering and the Quantum Science and Nanomaterials Interdisciplinary Thematic Insitute (QMat). It aims at developping new theoretical and computational tools for fundamental physics, namely through Geometric Algebra (real Clifford algebras) and generalized screw theory.
+The Geometry for Quantum Science (GeQS) research group is a group of students mainly based at the University of Strasbourg, and organized around the [Faculty of Physics and Engineering](https://physique-ingenierie.unistra.fr/) and the [Quantum Science and Nanomaterials](https://qmat.unistra.fr/) Interdisciplinary Thematic Institute (QMat). It aims at developping new theoretical and computational tools for fundamental physics, namely through Geometric Algebra (real Clifford algebras) and generalized screw theory.
 
 - **GeQS**
 - [Articles](articles.md)
@@ -35,29 +35,29 @@ The Geometry for Quantum Science (GeQS) research group is a group of students ma
 ### Romain Beauclaire
 > *Student in mathematics, Department of Mathematics and Computer Science, University of Strasbourg.*
 
-The group's mathematician.
+Highly interested in applied mathematics, Romain helps us tackle mathematical issues within the framework we are elaborating. He's currently working on screw differential calculus.
 
 ### Simon Beaudoin
 > *Student in fundamental physics and QMat member, Faculty of Physics and Engineering, University of Strasbourg.*
 
-Feynman's first fan.
+Mainly interested in subatomic and high energy physics, Simon shares with us his helpful experience in quantum field theory. (He also has Feynman's head on his sockets.)
 
 ### Loris Delafosse
 > *Student in fundamental physics and QMat member, Faculty of Physics and Engineering, University of Strasbourg.*
 
-Coordinator of the GeQS research group.
+Seeking to obtain new geometrical insight into known physical phenomena, Loris is responsible for the early developments of the generalized screw formalism.
 
 ### Amr Hussein
 > *Student in fundamental physics, Faculty of Physics and Engineering, University of Strasbourg.*
 
-Specialist in 3-simplexes.
+Always eager to find geometrical meaning in physical theories, Amr raises useful new questions and interpretations.
 
 ### Maxence Pandini
 > *Student in fundamental physics and QMat member, Faculty of Physics and Engineering, University of Strasbourg.*
 
-Specialist in polymer physics.
+Namely interested in statiscal and quantum mechanics, Maxence helps us carrying out lengthy calculations that arise in Geometric Algebra. (Also, don't mention polymers when you're talking to him.)
 
 ### Antoine Royer
 > *Student in oceanography, atmospheric physics and climatology and TESS member, Faculty of Sciences and Engineering, University of Toulouse III (Paul Sabatier).*
 
-The group's computer technician.
+As the group's computer technician, Antoine develops new computational tools supporting our theoretical research.
