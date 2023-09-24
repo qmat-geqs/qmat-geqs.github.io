@@ -12,7 +12,7 @@ You will find here the various projects we are carrying out to automate calculat
   - [Geometric Algebra Primer](references.md#geometric-algebra-primer)
   - [The Inner Products of Geometric Algebra](references.md#the-inner-products-of-geometric-algebra)
   - [Introduction aux Groupes de Lie destinée aux physiciens](references.md#introduction-aux-groupes-de-lie-destinée-aux-physiciens)
-  - [A representation of twistors within geometric (Clifford) algebra](#a-representation-of-twistors-within-geometric-clifford-algebra)
+  - [A representation of twistors within geometric (Clifford) algebra](references.md#a-representation-of-twistors-within-geometric-clifford-algebra)
 
 ## GScrew
 [GScrew](https://github.com/GenScrew/GScrew) is a Python module to manipulate generalized Screws and Coscrews with geometric algebras (Clifford algebras). To provide a complete and independant framework, GScrew also implements n-dimensional geometric algebras and multivectors.

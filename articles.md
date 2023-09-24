@@ -12,7 +12,7 @@ You can find the various articles and papers we have written on our new formalis
   - [Geometric Algebra Primer](references.md#geometric-algebra-primer)
   - [The Inner Products of Geometric Algebra](references.md#the-inner-products-of-geometric-algebra)
   - [Introduction aux Groupes de Lie destinée aux physiciens](references.md#introduction-aux-groupes-de-lie-destinée-aux-physiciens)
-  - [A representation of twistors within geometric (Clifford) algebra](#a-representation-of-twistors-within-geometric-clifford-algebra)
+  - [A representation of twistors within geometric (Clifford) algebra](references.md#a-representation-of-twistors-within-geometric-clifford-algebra)
 
 ## A New Approach to Screw Theory using Geometric Algebra
 > Loris Delafosse — June 14, 2023
