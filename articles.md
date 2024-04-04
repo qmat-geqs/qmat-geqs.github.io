@@ -4,6 +4,7 @@ You can find here the list of articles and papers we have produced.
 
 - [GeQS](index.md)
 - **Articles**
+- [Our research](research.md)
 - [Numerical projects](projects.md)
 - [References](references.md)
 
