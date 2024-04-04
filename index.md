@@ -2,26 +2,27 @@
 
 Welcome on the GeQS website!
 
-The Geometry for Quantum Science (GeQS) research group is a group of students mainly based at the University of Strasbourg, and organized around the [Faculty of Physics and Engineering](https://physique-ingenierie.unistra.fr/) and the [Quantum Science and Nanomaterials](https://qmat.unistra.fr/) Interdisciplinary Thematic Institute (QMat). It aims at developping new theoretical and computational tools for fundamental physics, namely through Geometric Algebra (real Clifford algebras) and generalized screw theory.
+The Geometry for Quantum Science (GeQS) research group is a student project based at the University of Strasbourg, and organized around the [Faculty of Physics and Engineering](https://physique-ingenierie.unistra.fr/) and the [Quantum Science and Nanomaterials (QMat)](https://qmat.unistra.fr/) Interdisciplinary Thematic Institute.
+
+Our goal is to strengthen **training through research** in fields like quantum mechanics, quantum chemistry and high energy physics, and to promote the teaching of **theoretical** and **mathematical physics** through the organization of student semainars, tutoring sessions (with the Tutoring Division of the ARIANE, the Faculty's student association) and through the publication of a QMat journal.
+
+We are conducting our own research in these fields, with the aim of developing formal and numerical tools for fundamental and educational physics. Current research topics include clifford algebras, twistor theory, semi-classical models and applied category theory.
 
 - **GeQS**
 - [Articles](articles.md)
-  - [A New Approach to Screw Theory using Geometric Algebra](articles.md#new-approach-to-screw-theory)
-- [Projects](projects.md)
-  - [GScrew](projects.md#gscrew)
-  - [GSCL](projects.md#gscl)
+- [Our research](research.md)
+- [Numerical projects](projects.md)
 - [References](references.md)
-  - [Geometric Algebra Primer](references.md#geometric-algebra-primer)
-  - [The Inner Products of Geometric Algebra](references.md#the-inner-products-of-geometric-algebra)
-  - [Introduction aux Groupes de Lie destinée aux physiciens](references.md#introduction-aux-groupes-de-lie-destinée-aux-physiciens)
-  - [A representation of twistors within geometric (Clifford) algebra](references.md#a-representation-of-twistors-within-geometric-clifford-algebra)
 
 * * * 
 
 ## News
 
+### April 3, 2024
+> Publication of “Formalizing Screw Theory with 3D Geometric Algebra” in *Physica Scripta*. [See more](articles.md#formalizing-screw-theory-with-3d-geometric-algebra)
+
 ### August 1, 2023
-> Version 1.0.7 of the GScrew Python package is released [See more](projects.md#gscrew)
+> Version 1.0.7 of the GScrew Python package is released. [See more](projects.md#gscrew)
 
 ### July 28, 2023
 > The development of GSCL (Generalized Screw Calculus Library), a C++ library implementing generalized screws, begins. [See more](projects.md#gscl)
@@ -30,7 +31,7 @@ The Geometry for Quantum Science (GeQS) research group is a group of students ma
 > Start of the development of GScrew, a Python package for generalized screws. [See more](projects.md#gscrew)
 
 ### June 14, 2023
-> Loris' first article on the new formalism is finished. [See more](articles.md#new-approach-to-screw-theory)
+> Loris' first article on the generalized screw formalism is finished. [See more](articles.md#a-new-approach-to-screw-theory-using-geometric-algebra)
 
 ## Who are we?
 
@@ -42,7 +43,7 @@ Highly interested in applied mathematics, Romain helps us tackle mathematical is
 ### Simon Beaudoin
 > *Student in fundamental physics and QMat member, Faculty of Physics and Engineering, University of Strasbourg.*
 
-Mainly interested in subatomic and high energy physics, Simon shares with us his helpful experience in quantum field theory. (He also has Feynman's head on his sockets.)
+Mainly interested in subatomic and high energy physics, Simon shares with us his helpful experience in quantum field theory. (He also has Feynman's face on his sockets.)
 
 ### Loris Delafosse
 > *Student in fundamental physics and QMat member, Faculty of Physics and Engineering, University of Strasbourg.*
@@ -52,7 +53,7 @@ Seeking to obtain new geometrical insight into known physical phenomena, Loris i
 ### Amr Hussein
 > *Student in fundamental physics, Faculty of Physics and Engineering, University of Strasbourg.*
 
-Always eager to find geometrical meaning in physical theories, Amr raises useful new questions and interpretations.
+Always eager to find geometrical meaning in physical theories, Amr raises useful new questions and interpretations. He's currently working on twistor theory.
 
 ### Maxence Pandini
 > *Student in fundamental physics and QMat member, Faculty of Physics and Engineering, University of Strasbourg.*
