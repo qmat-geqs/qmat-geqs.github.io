@@ -12,7 +12,7 @@ Screw theory was invented at the end of the XIXth century to describe straight l
 
 We have developed [a new formalism for screw theory](articles.md#formalizing-screw-theory-with-3d-geometric-algebra) that generalizes the concept of a screw to any *weighted affine object* in a coordinate-free and origin-independent manner by using the geometric algebra (or real Clifford algebra) G(3), which is based on our familiar three-dimensional Euclidean space. In contrast, most formulations of screw theory either are origin-dependent or need to introduce an unphysical fourth dimension to space. By avoiding these traps, we have built an elegant formalism that helps to understand both the geometric and algebraic meanings of screws. A most natural formula for finite motion composition can also be derived in this setting.
 
-We observed that the idea of a straight line in space, along which something propagates while something else rotates, is strangely reminiscent of light rays, with their polarization. *Twistor theory* takes advantage of the fact that light rays are nothing but geodesics in spacetime to construct general relativity (and relativistic quantum mechanics) from them. We are wondering whether screws can represent twistors, and thus whether we can formulate relativistic quantum mechanics and/or general relativity with screws?
+We observed that the idea of a straight line in space, along which something propagates while something else rotates, is strangely reminiscent of light rays, with their polarization. *Twistor theory* takes advantage of the fact that light rays are nothing but geodesics in spacetime to construct general relativity (and relativistic quantum mechanics) from them. We are wondering whether screws can represent twistors, and thus whether we can formulate relativistic quantum mechanics and/or general relativity with screws.
 
 ## Semi-classical models
 
@@ -22,6 +22,6 @@ We want to propose a pedagogical approach to quantum mechanics that would use a 
 
 ## Applied category theory
 
-Category theory is a branch of mathematics that describes processes between objects in a very general and abstract framework. Physicists and computer scientists developed at the beginning of the XXIst century a category-theoretical formulation of quantum mechanics. Because cateogries are highly abstract, they only contain what is essential to quantum mechanics, and forget what only depends on a particular formalism like in Hilbert spaces.
+Category theory is a branch of mathematics that describes processes between objects in a very general and abstract framework. Physicists and computer scientists developed at the beginning of the XXIst century a category-theoretical formulation of quantum mechanics, which has the advantage of revealing only what is essential to quantum mechanics, and forget what only depends on a particular formalism like the Hilbert space formulation.
 
-We are interested in category theory because it could have many applications to classify methods, theories and formalisms in quantum mechanics, quantum chemistry or high energy physics, and determine their respective benefits and deficiencies.
+We think category theory could have many applications in classifying methods, theories and formalisms in quantum mechanics, quantum chemistry or high energy physics, and determine their respective benefits and deficiencies.
