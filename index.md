@@ -6,17 +6,21 @@ The Geometry for Quantum Science (GeQS) research group is a student project base
 
 Our goal is to strengthen **training through research** in fields like quantum mechanics, quantum chemistry and high energy physics, and to promote the teaching of **theoretical** and **mathematical physics** through the organization of student semainars, tutoring sessions (with the Tutoring Division of the ARIANE, the Faculty's student association) and through the publication of a QMat journal.
 
-We are conducting our own research in these fields, with the aim of developing formal and numerical tools for fundamental and educational physics. Current research topics include clifford algebras, twistor theory, semi-classical models and applied category theory.
+We are conducting our own research in these fields, with the aim of developing formal and numerical tools for fundamental and educational physics. Current research topics include Clifford algebras, twistor theory, semi-classical models and applied category theory.
 
 - **GeQS**
 - [Articles](articles.md)
 - [Our research](research.md)
+- [Events](events.md)
 - [Numerical projects](projects.md)
 - [References](references.md)
 
 * * * 
 
 ## News
+
+### June 4, 2024
+> Student seminar at the Faculty of Physics and Engineering in Strasbourg. [See more](events.md#2024-student-seminar)
 
 ### April 3, 2024
 > Publication of “Formalizing Screw Theory with 3D Geometric Algebra” in *Physica Scripta*. [See more](articles.md#formalizing-screw-theory-with-3d-geometric-algebra)
