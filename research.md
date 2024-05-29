@@ -3,6 +3,7 @@
 - [GeQS](index.md)
 - [Articles](articles.md)
 - **Our research**
+- [Events](events.md)
 - [Numerical projects](projects.md)
 - [References](references.md)
 
