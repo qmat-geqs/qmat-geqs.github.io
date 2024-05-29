@@ -5,6 +5,7 @@ You will find here the various projects we are carrying out to automate calculat
 - [GeQS](index.md)
 - [Articles](articles.md)
 - [Our research](research.md)
+- [Events](events.md)
 - **Numerical projects**
 - [References](references.md)
 
