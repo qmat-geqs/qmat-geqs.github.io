@@ -4,7 +4,7 @@ Welcome on the GeQS website!
 
 The Geometry for Quantum Science (GeQS) research group is a student project based at the University of Strasbourg, and organized around the [Faculty of Physics and Engineering](https://physique-ingenierie.unistra.fr/) and the [Quantum Science and Nanomaterials (QMat)](https://qmat.unistra.fr/) Interdisciplinary Thematic Institute.
 
-Our goal is to strengthen **training through research** in fields like quantum mechanics, quantum chemistry and high energy physics, and to promote the teaching of **theoretical** and **mathematical physics** through the organization of student semainars, tutoring sessions (with the Tutoring Division of the ARIANE, the Faculty's student association) and through the publication of a QMat journal.
+Our goal is to strengthen **training through research** in fields like quantum mechanics, quantum chemistry and high energy physics, and to promote the teaching of **theoretical** and **mathematical physics** through the organization of student seminars, tutoring sessions (with the Tutoring Division of the ARIANE, the Faculty's student association) and through the publication of a QMat journal.
 
 We are conducting our own research in these fields, with the aim of developing formal and numerical tools for fundamental and educational physics. Current research topics include Clifford algebras, twistor theory, semi-classical models and applied category theory.
 
