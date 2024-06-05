@@ -16,15 +16,15 @@ The [QMat](https://qmat.unistra.fr/) GeQS project and the Tutoring Division of t
 
 10h30 : Approches semi-classiques en mécanique quantique
 
-  > [Slides](Approches_semi-classiques.pdf)
-  > 
   > Avant la fondation de la mécanique quantique, les physiciens tentèrent de modifier le paradigme de la mécanique classique pour y inclure les phénomènes de quantification mis en évidence par les expérimentateurs. Cette “ancienne théorie des quanta” a conduit à des modèles toujours utilisés aujourd’hui et qui simplifient le traitement mathématique des effets quantiques.
+  > 
+  > [Slides](Approches_semi-classiques.pdf)
 
 14h : Spineurs, géométrie et espace-temps
 
-  > [Slides](Spineurs_géométrie_espace_temps.pdf)
-  > 
   > Donner une interprétation géométrique correcte aux concepts mathématiques de la physique peut servir de guide pour élaborer et comprendre les théories physiques, notamment en mécanique quantique (notoirement difficile à comprendre) et en relativité générale (où la géométrie joue un rôle central). Ces considérations ont conduit au développement de la théorie des twisteurs, qui génère l’espace-temps à partir de spineurs représentant les rayons lumineux.
+  >
+  > [Slides](Spineurs_géométrie_espace-temps.pdf)
 
 16h30 : Introduction au mécanisme de Higgs
 
