@@ -19,23 +19,26 @@ We are conducting our own research in these fields, with the aim of developing f
 
 ## News
 
+### September 1, 2024
+> The *Strasbourg Students Physical Letters* are launched as a scientific journal for students and by students. [See more](journal.md)
+
 ### June 4, 2024
-> Student seminar at the Faculty of Physics and Engineering in Strasbourg. [See more](events.md#2024-student-seminar)
+> Student seminar at the Faculty of Physics and Engineering in Strasbourg. [See more](events.md#2024-student-seminar-on-quantum-sciences)
 
 ### April 3, 2024
 > Publication of “Formalizing Screw Theory with 3D Geometric Algebra” in *Physica Scripta*. [See more](articles.md#formalizing-screw-theory-with-3d-geometric-algebra)
 
 ### August 1, 2023
-> Version 1.0.7 of the GScrew Python package is released. [See more](projects.md#gscrew)
+> Version 1.0.7 of the GScrew Python package is released. [See more](research.md#generalized-screw-theory-for-mechanics-and-twistors)
 
 ### July 28, 2023
-> The development of GSCL (Generalized Screw Calculus Library), a C++ library implementing generalized screws, begins. [See more](projects.md#gscl)
+> The development of GSCL (Generalized Screw Calculus Library), a C++ library implementing generalized screws, begins. [See more](research.md#generalized-screw-theory-for-mechanics-and-twistors)
 
 ### July 24, 2023
-> Start of the development of GScrew, a Python package for generalized screws. [See more](projects.md#gscrew)
+> Start of the development of GScrew, a Python package for generalized screws. [See more](research.md#generalized-screw-theory-for-mechanics-and-twistors)
 
 ### June 14, 2023
-> Loris' first article on the generalized screw formalism is finished. [See more](articles.md#a-new-approach-to-screw-theory-using-geometric-algebra)
+> The generalized screw formalism is fully developed. [See more](articles.md#a-new-approach-to-screw-theory-using-geometric-algebra)
 
 ## Who are we?
 
