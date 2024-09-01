@@ -12,7 +12,7 @@ We are conducting our own research in these fields, with the aim of developing f
 - [Articles](articles.md)
 - [Our research](research.md)
 - [Events](events.md)
-- [Numerical projects](projects.md)
+- [Strasbourg Students Physical Letters](journal.md)
 - [References](references.md)
 
 * * * 
