@@ -1,6 +1,6 @@
 # 2SPL Publications
 
-This lists all articles and seminar proceedings publiched in the [*Strasbourg Students Physical Letters*](journal.md).
+This lists all articles and seminar proceedings published in the [*Strasbourg Students Physical Letters*](journal.md).
 
 ## Volume 1
 
