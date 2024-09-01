@@ -9,7 +9,7 @@ The Strasbourg Students Physical Letters (2SPL) are a student-led scientific jou
 - **Strasbourg Students Physical Letters**
 - [References](references.md)
 
-[**List of 2SPL publications to this day**](journal/publications.md)
+[**See all 2SPL publications**](journal/publications.md)
 
 ## Aims and scope
 
