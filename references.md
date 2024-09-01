@@ -5,7 +5,7 @@ Here you can find useful references and bibliographic ressources related to our 
 - [Articles](articles.md)
 - [Our research](research.md)
 - [Events](events.md)
-- [Numerical projects](projects.md)
+- [Strasbourg Students Physical Letters](journal.md)
 - **References**
 
 ## Geometric Algebra Primer
