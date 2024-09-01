@@ -9,7 +9,7 @@ The Strasbourg Students Physical Letters (2SPL) are a student-led scientific jou
 - **Strasbourg Students Physical Letters**
 - [References](references.md)
 
-[**Publications**](journal/publications.md)
+[**List of 2SPL publications to this day**](journal/publications.md)
 
 ## Aims and scope
 
@@ -21,7 +21,12 @@ In addition to these articles, we also publish **seminar proceedings** that repo
 
 ## Submission process
 
-To submit an article, please send an email to Maxence Pandini (maxence.pandini @ etu.unistra.fr) briefly explaining the content of the work and containing all requested documents (see below). Submissions are checked for completeness and relevance by the Editorial Board and then single-anonymously peer-reviewed (the reviewers' identity is unknown to the author(s)). The Editorial Board takes a decision on publication upon reception of the reviewers' reports (acceptance, minor changes required, major changes required, refusal). If changes are required, you will be asked to complete a second submission.
+To submit an article, please send an email to Maxence Pandini (maxence.pandini @ etu.unistra.fr) briefly explaining the content of the work and containing:
+
+- your main *.tex file (the file we need to compile), titled ``main.tex``,
+- all additional files needed for compilation (images, bibliography, LaTeX packages, etc.).
+
+Submissions are checked for completeness and relevance by the Editorial Board and then single-anonymously peer-reviewed (the reviewers' identity is unknown to the author(s)). The Editorial Board takes a decision on publication upon reception of the reviewers' reports (acceptance, minor changes required, major changes required, or refusal). If changes are required, you will have to complete a second submission.
 
 ## Research data and permissions
 
@@ -44,12 +49,4 @@ Images should be sent in *.pdf format, but they can alternatively be submitted i
 Our supported LaTeX packages include: amsmath, amssymb, babel, bm, graphicx, physics, siunitx (we may require you to provide a *.sty file if you want to use other packages).
 
 If you wonder what your article should look like, you can see [a few examples here](journal/publications.md).
-
-## Necessary files for submission
-
-Your submission email should contain:
-
-- your main *.tex file (the file we need to compile), titled ``main.tex``,
-- all additional files needed for compilation (images, bibliography, LaTeX packages, etc.),
-- the Permissions and Licensing Statement (please use [this template](journal/PLS.tex)) granting us the right to publish your article.
 
