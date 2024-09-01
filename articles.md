@@ -6,7 +6,7 @@ You can find here the list of articles and papers we have produced.
 - **Articles**
 - [Our research](research.md)
 - [Events](events.md)
-- [Numerical projects](projects.md)
+- [Strasbourg Students Physical Letters](journal.md)
 - [References](references.md)
 
 ## Formalizing Screw Theory with 3D Geometric Algebra
