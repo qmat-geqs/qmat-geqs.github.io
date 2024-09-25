@@ -46,34 +46,9 @@ We are conducting our own research in these fields, with the aim of developing f
 ### June 14, 2023
 > The generalized screw formalism is fully developed. [See more](articles.md#a-new-approach-to-screw-theory-using-geometric-algebra)
 
-## Who are we?
+## Contact us
 
-### Romain Beauclaire
-> *Student in mathematics, Department of Mathematics and Computer Science, University of Strasbourg.*
-
-Highly interested in applied mathematics, Romain helps us tackle mathematical issues within the framework we are elaborating. He's currently working on screw differential calculus.
-
-### Simon Beaudoin
-> *Student in fundamental physics and QMat member, Faculty of Physics and Engineering, University of Strasbourg.*
-
-Mainly interested in subatomic and high energy physics, Simon shares with us his helpful experience in quantum field theory. (He also has Feynman's face on his sockets.)
-
-### Loris Delafosse
-> *Student in fundamental physics and QMat member, Faculty of Physics and Engineering, University of Strasbourg.*
-
-Seeking to obtain new geometrical insight into known physical phenomena, Loris is responsible for the early developments of the generalized screw formalism.
-
-### Amr Hussein
-> *Student in fundamental physics, Faculty of Physics and Engineering, University of Strasbourg.*
-
-Always eager to find geometrical meaning in physical theories, Amr raises useful new questions and interpretations. He's currently working on twistor theory.
-
-### Maxence Pandini
-> *Student in fundamental physics and QMat member, Faculty of Physics and Engineering, University of Strasbourg.*
-
-Namely interested in statiscal and quantum mechanics, Maxence helps us carrying out lengthy calculations that arise in Geometric Algebra. (Also, don't mention polymers when you're talking to him.)
-
-### Antoine Royer
-> *Student in oceanography, atmospheric physics and climatology and TESS member, Faculty of Sciences and Engineering, University of Toulouse III (Paul Sabatier).*
-
-As the group's computer technician, Antoine develops new computational tools supporting our theoretical research.
+Loris Delafosse
+> M2 Subatomic and Astroparticle Physics
+> GeQS project's coordinator
+> loris.delafosse @ etu.unistra.fr
