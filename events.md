@@ -7,6 +7,11 @@
 - [Strasbourg Students Physical Letters](journal.md)
 - [References](references.md)
 
+## 2024-2025 QMat Seminars
+  > [Description and schedule](events/qmat_seminars.md)
+
+Throughout the academic year, QMat students propose courses complementing the Faculty's teachings, on various subjects connected to theoretical aspects of quantum sciences.
+
 ## 2024 Student seminar on quantum sciences
   > 4th June 2024
   > 
