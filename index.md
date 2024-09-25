@@ -48,7 +48,10 @@ We are conducting our own research in these fields, with the aim of developing f
 
 ## Contact us
 
-Loris Delafosse
-> M2 Subatomic and Astroparticle Physics
-> GeQS project's coordinator
+### Loris Delafosse
+
+M2 Subatomic and Astroparticle Physics
+
+GeQS project's coordinator
+
 > loris.delafosse @ etu.unistra.fr
