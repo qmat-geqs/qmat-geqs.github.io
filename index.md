@@ -19,8 +19,14 @@ We are conducting our own research in these fields, with the aim of developing f
 
 ## News
 
+### September 30, 2024
+> This year's first QMat student meeting. The GeQS group, the [2SPL](journal.md) and the [QMat Seminars](events/qmat_seminars.md) are represented.
+
+### September 25, 2024
+> A first version of the QMat Seminars program is released. [See more](events/qmat_seminars.md)
+
 ### September 1, 2024
-> The *Strasbourg Students Physical Letters* are launched as a scientific journal for students and by students. [See more](journal.md)
+> The *Strasbourg Students Physical Letters* are launched, as a scientific journal for students and by students. [See more](journal.md)
 
 ### June 4, 2024
 > Student seminar at the Faculty of Physics and Engineering in Strasbourg. [See more](events.md#2024-student-seminar-on-quantum-sciences)
