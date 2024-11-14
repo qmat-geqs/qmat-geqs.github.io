@@ -35,7 +35,7 @@ Classical field theory is the branch of mathematical physics dealing with non-qu
   > 
   > Room 103
 
-Abstract to come
+The first postulate of Quantum Mechanics asserts that a system's state is completely characterized by some vector, element of an abstract space called the *state space*. The features of this space may vary considerably from one system to another, and even for simple systems, the physical interpretation of the state vectors is not always straightforward. This seminar aims at elaborating a rigorous, step-by-step, construction of the state space associated to *real space variables*, first for systems with 1 degree of freedom (one particle evolving in one dimension), and then for 3D and many-body systems. The state space associated to *spin variables* is introduced in a second part, allowing us to discuss the notions of quantum entanglement and indiscernability.
 
 ## 2024-2025 Second semester (yet to come)
 
@@ -43,3 +43,4 @@ Seminar subjects should include:
 
 - Symmetries and representation theory in high-energy physics
 - Path integrals in quantum mechanics, statistical physics and quantum field theory: physical interpretation and mathematical aspects (probably 2 or 3 seminars)
+- Classical field theory: towards quantization and general relativity
