@@ -34,24 +34,15 @@ We are conducting our own research in these fields, with the aim of developing f
 ### April 3, 2024
 > Publication of “Formalizing Screw Theory with 3D Geometric Algebra” in *Physica Scripta*. [See more](articles.md#formalizing-screw-theory-with-3d-geometric-algebra)
 
-### August 1, 2023
-> Version 1.0.7 of the GScrew Python package is released. [See more](research.md#generalized-screw-theory-for-mechanics-and-twistors)
-
-### July 28, 2023
-> The development of GSCL (Generalized Screw Calculus Library), a C++ library implementing generalized screws, begins. [See more](research.md#generalized-screw-theory-for-mechanics-and-twistors)
-
-### July 24, 2023
-> Start of the development of GScrew, a Python package for generalized screws. [See more](research.md#generalized-screw-theory-for-mechanics-and-twistors)
-
-### June 14, 2023
-> The generalized screw formalism is fully developed. [See more](articles.md#a-new-approach-to-screw-theory-using-geometric-algebra)
 
 ## Contact us
 
 ### Loris Delafosse
 
-M2 Subatomic and Astroparticle Physics
+Student in M2 Subatomic and Astroparticle Physics
 
-GeQS project's coordinator
+QMat's _Young Investigator Group_ Board member
+
+Head of the GeQS project
 
 > loris.delafosse @ etu.unistra.fr
