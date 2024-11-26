@@ -9,7 +9,7 @@ The QMat Seminars are courses organized by [QMat](https://qmat.unistra.fr/) stud
 - [Strasbourg Students Physical Letters](../journal.md)
 - [References](../references.md)
 
-QMat Seminars are courses intended to foster a better understanding of theoretical aspects of quantum sciences among physics students. All seminars are held at the _Institut de Physique_ in Strasbourg, and the proceedings are published in the _Strasbourg Students Physical Letters_.
+QMat Seminars are courses intended to foster a better understanding of theoretical aspects of quantum sciences among physics students. All seminars are held at the _Institut de Physique_ in Strasbourg, and the proceedings are published in the _Strasbourg Students Physical Letters_ ([here](https://2spl.odoo.com/seminars)).
 
 ## 2024-2025 First Semester
 
