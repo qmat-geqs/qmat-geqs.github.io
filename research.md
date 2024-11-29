@@ -1,11 +1,22 @@
-# Research
+# Our research
 
-- [GeQS](index.md)
+- [Home page](index.md)
 - [Articles](articles.md)
 - **Our research**
-- [Events](events.md)
+- [Events and seminars](events.md)
 - [Strasbourg Students Physical Letters](journal.md)
 - [References](references.md)
+
+* * *
+
+## Summary
+
+- [Generalized screw theory for mechanics and twistors](#generalized-screw-theory-for-mechanics-and-twistors)
+- [Semi-classical models](#semi-classical-models)
+- [Primordial black holes and baryogenesis](#primordial-black-holes-and-baryogenesis)
+- [Applied category theory](#applied-category-theory)
+
+* * *
 
 ## Generalized screw theory for mechanics and twistors
 
