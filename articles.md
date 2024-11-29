@@ -2,10 +2,10 @@
 
 You can find here the list of articles and papers we have produced.
 
-- [GeQS](index.md)
+- [Home page](index.md)
 - **Articles**
 - [Our research](research.md)
-- [Events](events.md)
+- [Events and seminars](events.md)
 - [Strasbourg Students Physical Letters](journal.md)
 - [References](references.md)
 
