@@ -8,10 +8,10 @@ Our goal is to strengthen **training through research** in fields like quantum m
 
 We are conducting our own research in these fields, with the aim of developing formal and numerical tools for fundamental and educational physics. Current research topics include Clifford algebras, twistor theory, semi-classical models and applied category theory.
 
-- **GeQS**
+- **Home page**
 - [Articles](articles.md)
 - [Our research](research.md)
-- [Events](events.md)
+- [Events and seminars](events.md)
 - [Strasbourg Students Physical Letters](journal.md)
 - [References](references.md)
 
@@ -34,6 +34,7 @@ We are conducting our own research in these fields, with the aim of developing f
 ### April 3, 2024
 > Publication of “Formalizing Screw Theory with 3D Geometric Algebra” in *Physica Scripta*. [See more](articles.md#formalizing-screw-theory-with-3d-geometric-algebra)
 
+* * *
 
 ## Contact us
 
@@ -46,3 +47,23 @@ QMat's _Young Investigator Group_ Board member
 Head of the GeQS project
 
 > loris.delafosse @ etu.unistra.fr
+
+### Simon Beaudoin
+
+Student in M2 Subatomic and Astroparticle Physics
+
+QMat's _Young Investigator Group_ Board member
+
+Head of the Student seminars project
+
+> simon.beaudoin @ etu.unistra.fr
+
+### Maxence Pandini
+
+Student in M2 Physics of Quantum and Soft Condensed Matter
+
+QMat's _Young Investigator Group_ Board member
+
+Editor-in-Chief of the _Strasbourg Students Physical Letters_
+
+> maxence.pandini @ etu.unistra.fr
