@@ -7,12 +7,18 @@
 - [Strasbourg Students Physical Letters](journal.md)
 - [References](references.md)
 
-## 2024-2025 QMat Seminars
+* * *
+
+## QMat Student Seminars
   > [Description and schedule](events/qmat_seminars.md)
 
-Throughout the academic year, QMat students propose courses complementing the Faculty's teachings, on various subjects connected to theoretical aspects of quantum sciences.
+Throughout the academic year, QMat students propose courses complementing the Faculty's teachings, on various subjects connected to theoretical aspects of quantum sciences. Each year, the tensor calculus course is followed by almost all L3 students.
 
-## 2024 Student seminar on quantum sciences
+* * *
+
+## Other events
+
+### 2024 GeQS seminar on quantum sciences
   > 4th June 2024
   > 
   > [Schedule](events/seminar2024.pdf)
