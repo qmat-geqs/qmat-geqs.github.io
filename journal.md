@@ -2,10 +2,10 @@
 
 The Strasbourg Students Physical Letters (2SPL) are a student-led scientific journal published by QMat and supported by the GeQS. You can find the [official 2SPL website here](https://2spl.odoo.com/).
 
-- [GeQS](index.md)
+- [Home page](index.md)
 - [Articles](articles.md)
 - [Our research](research.md)
-- [Events](events.md)
+- [Events and seminars](events.md)
 - **Strasbourg Students Physical Letters**
 - [References](references.md)
 
