@@ -1,9 +1,9 @@
 # Events
 
-- [GeQS](index.md)
+- [Home page](index.md)
 - [Articles](articles.md)
 - [Our research](research.md)
-- **Events**
+- **Events and seminars**
 - [Strasbourg Students Physical Letters](journal.md)
 - [References](references.md)
 
