@@ -11,14 +11,14 @@ You can find here the list of articles and papers we have produced.
 
 * * *
 
-## Formalizing Screw Theory with 3D Geometric Algebra
+### Formalizing Screw Theory with 3D Geometric Algebra
 > **Citation** Loris Delafosse (2024) _Phys. Scr._ **99** 056102 doi:10.1088/1402-4896/ad3787
 > 
 > [Read this article](https://www.researchgate.net/publication/379297195_Formalizing_Screw_Theory_with_3D_Geometric_Algebra)
 
 This paper is intended for students and researchers looking for more insight into Screw Theory. It shows how algebraic considerations lead to both physical and geometrical understanding of screws, and how they can connect affine geometry (what the world is) to linear algebra (what we can easily compute). Various formulations of the theory are first reviewed, as each of them highlights a particular aspect of screws. Their respective qualities and defects are also discussed. Subsequently, the powerful framework of Geometric Algebra (GA) is introduced to elucidate the nature of various physical objects commonly associated with screws, and eventually a new formalism based on GA is proposed, in which traditional screws clearly appear as a special case of more general affine objects. This approach generalizes the concept of a screw in a coordinate-free and origin-independent form. A simultaneous proof of Euler's First and Second Laws is provided to illustrate the use of this formalism.
 
-## A New Approach to Screw Theory using Geometric Algebra
+### A New Approach to Screw Theory using Geometric Algebra
 > **Citation** Loris Delafosse (2023) hal-04177875v3
 > 
 > [Read this article](https://hal.science/hal-04177875v3)
