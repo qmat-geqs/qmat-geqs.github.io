@@ -1,4 +1,4 @@
-# Events
+# Events and seminars
 
 - [Home page](index.md)
 - [Articles](articles.md)
