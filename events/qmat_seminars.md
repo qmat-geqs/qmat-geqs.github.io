@@ -2,7 +2,7 @@
 
 The QMat Seminars are courses organized by [QMat](https://qmat.unistra.fr/) students at the Faculty of Physics and Engineering, in partnership with the Tutoring Division of the [ARIANE](https://www.asso-ariane.fr/), the [Strasbourg Students Physical Letters](https://2spl.odoo.com/) and the GeQS research group.
 
-- [GeQS - home](../index.md)
+- [Home page](../index.md)
 - [Articles](../articles.md)
 - [Our research](../research.md)
 - [Events and seminars](../events.md)
