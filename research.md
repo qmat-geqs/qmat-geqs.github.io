@@ -1,5 +1,7 @@
 # Our research
 
+The various fields that are investigated by the GeQS are presented here, along with some of our results. I you are interested in our research, you can also read [our articles](articles.md) or check our propositions of [M1S2 tutored projects](research/tutored_projects.md).
+
 - [Home page](index.md)
 - [Articles](articles.md)
 - **Our research**
