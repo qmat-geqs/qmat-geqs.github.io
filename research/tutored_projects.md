@@ -6,7 +6,7 @@ The subjects specified below are examples rather than an exhaustive list of all 
 
 In the ideal case, the tutored students would begin their project by this bibliographical search, whose outcome is their oral examination at the end of the semester, and then would carry out the associated research in close collaboration with GeQS members, resulting in the publication of a paper, either in the *Strasbourg Students Physical Letters* if the material is too thin or in a recognized journal if sufficiently interesting new results have been obtained.
 
-Please contact [Loris Delafosse](../index.md#contact_us) for any question, or if you are interested in following a tutored project with the GeQS.
+Please contact [Loris Delafosse](../index.md#contact-us) for any question, or if you are interested in following a tutored project with the GeQS.
 
 - [Home page](../index.md)
 - [Articles](../articles.md)
@@ -34,6 +34,8 @@ T-symmetry is however not a fundamental symmetry of the Standard Model, since it
 ### Applications of the Bohr-Sommerfeld semi-classical theory
 
 > Possible colourations: quantum physics (2), high-energy physics (3) or cosmology (3)
+
+Semi-classical methods yield astonishingly good results for a number of useful systems and can deepen our understanding of Quantum Mechanics. Among the most notorious semi-classical quantization schemes, we can cite the [Bohr-Sommerfeld rule](https://en.wikipedia.org/wiki/Old_quantum_theory) which, despite its mathematical simplicity, correctly describes the energy gaps of the infinite well, the harmonic oscillator, the hydrogen atom, etc. Is it possible to apply the Bohr-Sommerfeld theory to more complicated systems, are what are its limits? Can we describe electron correlations in chemical systems? light-matter couplings? quantum chromodynamics? quantum gravity?
 
 ### The ADM formalism of General relativity and its connection to twistor theory
 
