@@ -47,7 +47,7 @@ Student in M2 Subatomic and Astroparticle Physics
 
 QMat's _Young Investigator Group_ Board member
 
-Head of the GeQS project
+Head of the GeQS Group, Editor of the _Strasbourg Students Physical Letters_
 
 > loris.delafosse @ etu.unistra.fr
 
@@ -57,7 +57,7 @@ Student in M2 Subatomic and Astroparticle Physics
 
 QMat's _Young Investigator Group_ Board member
 
-Head of the Student seminars project
+Head of the Student Seminars program, Editor of the _Strasbourg Students Physical Letters_
 
 > simon.beaudoin @ etu.unistra.fr
 
