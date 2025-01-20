@@ -42,7 +42,7 @@ From the moment Einstein explained the photoelectric effect with light quanta in
 
 We want to propose a pedagogical approach to quantum mechanics that would use a semi-classical setting to introduce the basics of quantum theory in a consistent way. We are thus investigating a semi-classical model for the quantization of light, which allows us to derive the Planck-Einstein relation, the de Broglie relation, and the photon relativistic mass.
 
-The possibility of semi-classically quantizing light seems indicative of the possibility of developing a complete Semi-Classical Field Theory that would apply the Bohr-Sommerfeld rule to classical fields and provide a first approximation to Quantum Field Theory (QFT). Hopefully, this might lead to a fully relativistic/partially quantum theory of elementary particles, whereas QFT is almost always approximated by a fully quantum/partially relativistic theory (the Feynman calculus). This should lead to a different phenomenology, and to possible applications to Quantum Electrodynamics, Quantum Chromodynamics and Quantum Gravity.
+The possibility of semi-classically quantizing light seems indicative of the possibility of developing a complete Semi-Classical Field Theory that would apply the Bohr-Sommerfeld rule to classical fields and provide a first approximation to Quantum Field Theory (QFT). This could be a simple aternative to the Feynman calculus to adress quantum fields in the perturbative regime, and could have applications in Quantum Electrodynamics, Quantum Chromodynamics and Quantum Gravity.
 
 ## Primordial black holes and baryogenesis
 
