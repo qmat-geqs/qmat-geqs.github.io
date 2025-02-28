@@ -19,23 +19,26 @@ We are conducting our own research in these fields, with the aim of developing f
 
 ## News
 
+### February 28, 2025
+> Version 1.1.0 of GScrew (Python package for generalized screws) is released. It is the first fully stable version of the package. [See more](research.md#generalized-screw-theory-for-mechanics-and-twistors).
+
 ### January, 2025
-> M1 students now have the possibility to realize a tutored project with the GeQS. [See more](research/tutored_projects.md)
+> M1 students now have the possibility to realize a tutored project with the GeQS. [See more](research/tutored_projects.md).
 
 ### September 30, 2024
 > This year's first QMat student meeting. The GeQS group, the [2SPL](https://2spl.odoo.com/) and the [QMat Seminars](https://2spl.odoo.com/seminars) are represented.
 
 ### September 25, 2024
-> A first version of the QMat Seminars program is released. [See more](https://2spl.odoo.com/seminars)
+> A first version of the QMat Seminars program is released. [See more](https://2spl.odoo.com/seminars).
 
 ### September 1, 2024
-> The *Strasbourg Students Physical Letters* are launched, as a scientific journal for students and by students. [See more](https://2spl.odoo.com/)
+> The *Strasbourg Students Physical Letters* are launched, as a scientific journal for students and by students. [See more](https://2spl.odoo.com/).
 
 ### June 4, 2024
-> Student seminar at the Faculty of Physics and Engineering in Strasbourg. [See more](events.md#2024-student-seminar-on-quantum-sciences)
+> Student seminar at the Faculty of Physics and Engineering in Strasbourg. [See more](events.md#2024-student-seminar-on-quantum-sciences).
 
 ### April 3, 2024
-> Publication of “Formalizing Screw Theory with 3D Geometric Algebra” in *Physica Scripta*. [See more](articles.md#formalizing-screw-theory-with-3d-geometric-algebra)
+> Publication of “Formalizing Screw Theory with 3D Geometric Algebra” in *Physica Scripta*. [See more](articles.md#formalizing-screw-theory-with-3d-geometric-algebra).
 
 * * *
 
