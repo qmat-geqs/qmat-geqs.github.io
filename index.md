@@ -19,6 +19,9 @@ We are conducting our own research in these fields, with the aim of developing f
 
 ## News
 
+### March 31, 2025
+> Publication of "Formalizing SE(3) with Generalized Screws in 3D Geometric Algebra" in *Physica Scripta*. [See more](articles.md#formalizing_se(3)_with_generalized_screws_in_3d_geometric_algebra)
+
 ### February 28, 2025
 > Version 1.1.0 of GScrew (Python package for generalized screws) is released. It is the first fully stable version of the package. [See more](research.md#generalized-screw-theory-for-mechanics-and-twistors).
 
