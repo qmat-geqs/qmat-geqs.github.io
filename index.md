@@ -49,17 +49,17 @@ We are conducting our own research in these fields, with the aim of developing f
 
 ### Loris Delafosse
 
-Student in M2 Subatomic and Astroparticle Physics
+PhD student, Laboratoire de Chimie Quantique de Strasbourg, Institut de Chimie de Strasbourg, CNRS/University of Strasbourg
 
 QMat's _Young Investigator Group_ Board member
 
 Head of the GeQS Group, Editor of the _Strasbourg Students Physical Letters_
 
-> loris.delafosse @ etu.unistra.fr
+> loris.delafosse @ unistra.fr
 
 ### Simon Beaudoin
 
-Student in M2 Subatomic and Astroparticle Physics
+PhD student, Theory Group, Department of Subatomic Research, Institut Pluridisciplinaire Hubert Curien, CNRS/University of Strasbourg
 
 QMat's _Young Investigator Group_ Board member
 
@@ -69,7 +69,7 @@ Head of the Student Seminars program, Editor of the _Strasbourg Students Physica
 
 ### Maxence Pandini
 
-Student in M2 Physics of Quantum and Soft Condensed Matter
+PhD student, European Centre for Quantum Sciences, Institut de Science et d'Ingénierie Supramoléculaires, CNRS/University of Strasbourg
 
 QMat's _Young Investigator Group_ Board member
 
