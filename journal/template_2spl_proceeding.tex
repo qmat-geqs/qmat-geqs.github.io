@@ -1,58 +1,161 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%       GENERAL TEMPLATE SETTINGS           %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Do not change the settings!
+
 \documentclass[
  reprint,
- superscriptaddress,
  preprintnumbers,
+ nobibnotes,
+ nofootinbib,
+ longbibliography,
  amsmath,amssymb,
  aps,pra,
  onecolumn
 ]{revtex4-2}
 
-\usepackage{graphicx}% Include figure files
+\renewcommand{\journalname}{Strasbourg Students Physical Letters}
+\renewcommand{\volumename}{X}
+\renewcommand{\numbername}{02xx}
+\newcommand{\header}{{\footnotesize\today} \hspace{6em} {\sc\journalname} \; {\bf\volumename},\; \numbername \; \hspace{9em} {\footnotesize CC-BY-SA 4.0}}
+
+% Definitions related to bibliography format
+\def\sspl{Stras.\ Stud.\ Phys.\ Lett.}%
+
+% amsmath and amssymb are charged by the document class
+\usepackage{physics}% Dirac notation, abreviations for derivatives, parentheses, etc.
+\usepackage{siunitx}% Normalised notations for physical units
+\usepackage{bm}% Bold mathematical characters like \bm\alpha
+\usepackage{chemfig}% Molecules in different representations, reaction mechanisms, etc.
+\usepackage{tikz-cd}% Algebraic diagrams
+\usepackage{graphicx,subcaption}% Include figure files
 \usepackage{dcolumn}% Align table columns on decimal point
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     END OF GENERAL TEMPLATE SETTINGS      %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%% PERSONAL COMMANDS %%%%
+%\usepackage{mypackage}
+%\newcommand{\mycommand}{} % Use new commands only as aliases to longer expressions
 
 
 \begin{document}
 
-\preprint{Strasbourg Students Physical Letters}
+\preprint{\header}% Do not change this setting
 
-\title{Title}
-%\thanks{Seminar inspired by}% Facultative
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%                FRONTMATTER                %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\author{Your name}
-%\email{Your email}% Facultative
-\affiliation{Faculty of Physics and Engineering\\University of Strasbourg}
+% Replace the fields with your title, name, etc. and remove the fields that you don't need
 
-\date{\today}
+\title{Template for 2SPL seminar proceedings}
+\thanks{Seminar inspired by}% Facultative
+
+\author{First Author}
+\email{email1@institution.org}% Facultative
+\affiliation{Faculty of Physics and Engineering, University of Strasbourg}
+
+% \author{Second Author}
+% \email{email2@institution.org}% Facultative
+% \affiliation{Faculty of Physics and Engineering, University of Strasbourg}
+
+% \author{Third Author}
+% \email{email3@institution.org}% Facultative
+% \affiliation{European Centre for Quantum Sciences, Institut de Science et d'Ingénierie Supramoléculaires, CNRS/University of Strasbourg}
 
 \begin{abstract}
-    Abstract here
+    The abstract should contain a concise summary of the motivation, the content and the goal of the seminar.
 \end{abstract}
 
 \maketitle
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%             END OF FRONTMATTER            %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\tableofcontents% Facultative
+
 \section*{Introduction}
 
-Lorem ipsum
+The introduction should give the context of the seminar and cite relevant textbooks~\cite{landauQuantum} and other scientific references~\cite{wheeler1949electrodynamics,beaudoin2024extending} ({\em all} relevant sources are expected to be referenced, but not necessarily cited in the introduction). Some references can appear in the bibliography without being cited in the text.
+
+Throughout the text, the use of non-permanent links in references is discouraged, except when no permanent link exists and the reference is serious and useful, and its author is clearly designated~\cite{skinner2018qft}. Footnotes can also be used to give precisions on some points~\footnote{Lorem ipsum}, while appendices (like Appendix~\ref{app:lorem_appendix}) are used to present developments that are useful to the full understanding of the paper but are not its main focus.
 
 \section{First part}
 
-Lorem ipsum
+Equations should be numbered:
+\begin{equation}
+    m \dv{\bm\gamma}{t} = \mathbf{F} ,
+\end{equation}
+possibly collectively:
+\begin{equation}
+\begin{split}
+    \delta \expval{\hat{H}}{\psi} &= \mel{\delta \psi}{\hat{H}}{\psi} + \mel{\psi}{\hat{H}}{\delta \psi} \\
+    &= 2 \Re(\mel{\delta \psi}{\hat{H}}{\psi})
+\end{split}
+\end{equation}
+or through subequations:
+\begin{subequations}
+\begin{gather}
+    \partial_\mu F^{\mu\nu} = J^\nu, \\
+    F^{\mu\nu} = g^{\mu\sigma} g^{\nu\tau} \pqty{ \partial_\sigma A_\tau - \partial_\tau A_\sigma }.
+\end{gather}
+\end{subequations}
 
-\begin{acknowledgments}
-    I wish to thank Lorem Ipsum
-\end{acknowledgments}
+\section{Second part}
+
+Images are expected in PDF format, or alternatively in PNG or JPG format.
+
+% \begin{figure}
+%     \centering
+%     \includegraphics[width=\columnwidth]{figure.pdf}
+%     \caption{Caption}
+%     \label{fig:placeholder}
+% \end{figure}
+
+Tables can also be used store information like in Table~\ref{tab:gates}.
+
+\begin{table}[ht]
+\begin{ruledtabular}
+    \centering
+    \begin{tabular}{ccc}
+        Symbol & Definition & Name \\ \hline
+        \multicolumn{3}{l}{\bf Oscillator-only gates} \\ \hline
+        $\hat{D} (\xi)$ & $\exp( \xi  b^\dag - \xi^\ast b )$ & Displacement \\
+        $\hat{R} (\theta)$ & $\exp( {\rm i} \theta  b^\dag b )$ & Rotation\footnote{$\theta = \theta_\text{strawberry} = \theta_\text{qiskit} = -\theta_\text{Liu/Crane}$} \\
+        $\hat{S} (\xi)$ & $\exp( \frac{1}{2} (\xi^\ast  b^2 - \xi b^{\dag2}) )$ & Squeezing \\
+        $\widehat{\rm BS}_{\alpha,\beta} (\theta,\varphi)$ & $\exp( \theta ( {\rm e}^{{\rm i}\varphi} b_\alpha b_\beta^\dag - {\rm e}^{-{\rm i}\varphi} b_\alpha^\dag b_\beta) )$ & Beamsplitter\footnote{$\theta = \theta_\text{strawberry} = \abs{\xi_\text{qiskit}} = \theta_\text{Liu}/2 = \theta_\text{Crane}$}\footnote{$\varphi = \varphi_\text{strawberry} = - \arg{\xi_\text{qiskit}} + \pi = - \varphi_\text{Liu/Crane} + \pi/2$} \\ \hline
+        \multicolumn{3}{l}{{\bf Oscillator-qubit gates}} \\ \hline
+        $\widehat{\rm CD}_{\alpha,i} (\xi)$ & $\exp( (\xi  b_\alpha^\dag - \xi^\ast b_\alpha) Z_i )$ & CDisplacement
+    \end{tabular}
+    \caption{Some native gates in superconducting quantum hardware. $\xi\in\mathbb{C}$, $\theta\in [0;2\pi[$, $\varphi\in[0;\pi[$. $\alpha,\beta$ are qumode indices, $i,j$ are qubit indices.}
+    \label{tab:gates}
+\end{ruledtabular}
+\end{table}
+
+
+\section*{Conclusion}
+
+The conclusion should be brief and summarise the content of the seminar.
 
 
 \appendix
 
 
 \section{First appendix}
+\label{app:lorem_appendix}
 
-Lorem ipsum dolor
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
+
+\begin{acknowledgments}
+    I wish to thank Lorem Ipsum
+\end{acknowledgments}
 
 \nocite{*}
-\bibliography{biblio}
-% A lot of examples are given in the apssamp.bib file 
+\bibliography{biblio}% Name of your bibliography .bib file
 
 \end{document}
