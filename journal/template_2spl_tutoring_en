@@ -1,0 +1,121 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%       GENERAL TEMPLATE SETTINGS           %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Do not change the settings!
+
+\documentclass[
+ reprint,
+ preprintnumbers,
+ nobibnotes,
+ nofootinbib,
+ longbibliography,
+ amsmath,amssymb,
+ aps,prl,
+ onecolumn
+]{revtex4-2}
+
+\renewcommand{\journalname}{Strasbourg Students Physical Letters}
+\renewcommand{\volumename}{X}
+\renewcommand{\numbername}{03xx}
+\newcommand{\header}{{\footnotesize\today} \hspace{7em} {\sc\journalname} \; {\bf\volumename},\; \numbername \; \hspace{9em} {\footnotesize CC-BY-SA 4.0}}
+
+% Definitions related to bibliography format
+\def\sspl{Stras.\ Stud.\ Phys.\ Lett.}%
+
+% amsmath and amssymb are charged by the document class
+\usepackage{physics}% Dirac notation, abreviations for derivatives, parentheses, etc.
+\usepackage{siunitx}% Normalised notations for physical units
+\usepackage{bm}% Bold mathematical characters like \bm\alpha
+\usepackage{chemfig}% Molecules in different representations, reaction mechanisms, etc.
+\usepackage{tikz-cd}% Algebraic diagrams
+\usepackage{graphicx,subcaption}% Include figure files
+\usepackage{dcolumn}% Align table columns on decimal point
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     END OF GENERAL TEMPLATE SETTINGS      %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%% PERSONAL COMMANDS AND PACKAGES %%%%
+%\usepackage{mypackage}
+%\input{mypreamble}
+%\newcommand{\mycommand}{}
+
+
+\begin{document}
+
+\preprint{\header}% Do not change this setting
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%                FRONTMATTER                %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Replace the fields with your title, name, etc. and remove the fields that you don't need
+
+\title{Template for 2SPL tutoring notes}
+\thanks{Organised by the ARIANE Tutoring Division at the Faculty of Physics and Engineering, University of Strasbourg.}
+
+\author{First Author}
+%\email{email1@institution.org}% Facultative
+\affiliation{Faculty of Physics and Engineering, University of Strasbourg}
+
+% \author{Second Author}
+% \email{email2@institution.org}% Facultative
+% \affiliation{Faculty of Physics and Engineering, University of Strasbourg}
+
+% Replace the parts in brackets with the appropriate information
+\begin{abstract}
+    Notes for the tutoring session of [April 1, 2026], on the [L1 mathematics, L3 quantum mechanics...] course. Subjects tackled: [matrix multiplication...].
+\end{abstract}
+
+\maketitle
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%             END OF FRONTMATTER            %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\section{Section title}
+
+The tutoring notes can be structured as the author(s) please(s).
+
+\section{Another section}
+
+Images (if there are any) are expected in PDF format, or alternatively in PNG or JPG format.
+
+% \begin{figure}
+%     \centering
+%     \includegraphics[width=\columnwidth]{figure.pdf}
+%     \caption{Caption}
+%     \label{fig:placeholder}
+% \end{figure}
+
+Tables can also be used store information like in Table~\ref{tab:gates}.
+
+\begin{table}[ht]
+\begin{ruledtabular}
+    \centering
+    \begin{tabular}{ccc}
+        Symbol & Definition & Name \\ \hline
+        \multicolumn{3}{l}{\bf Oscillator-only gates} \\ \hline
+        $\hat{D} (\xi)$ & $\exp( \xi  b^\dag - \xi^\ast b )$ & Displacement \\
+        $\hat{R} (\theta)$ & $\exp( {\rm i} \theta  b^\dag b )$ & Rotation \\
+        $\hat{S} (\xi)$ & $\exp( \frac{1}{2} (\xi^\ast  b^2 - \xi b^{\dag2}) )$ & Squeezing \\
+        $\widehat{\rm BS}_{\alpha,\beta} (\theta,\varphi)$ & $\exp( \theta ( {\rm e}^{{\rm i}\varphi} b_\alpha b_\beta^\dag - {\rm e}^{-{\rm i}\varphi} b_\alpha^\dag b_\beta) )$ & Beamsplitter \\ \hline
+        \multicolumn{3}{l}{{\bf Oscillator-qubit gates}} \\ \hline
+        $\widehat{\rm CD}_{\alpha,i} (\xi)$ & $\exp( (\xi  b_\alpha^\dag - \xi^\ast b_\alpha) Z_i )$ & CDisplacement
+    \end{tabular}
+    \caption{Some native gates in superconducting quantum hardware. $\xi\in\mathbb{C}$, $\theta\in [0;2\pi[$, $\varphi\in[0;\pi[$. $\alpha,\beta$ are qumode indices, $i,j$ are qubit indices.}
+    \label{tab:gates}
+\end{ruledtabular}
+\end{table}
+
+
+
+% Facultative acknowledgment section
+% \begin{acknowledgments}
+%     I wish to thank Lorem Ipsum
+% \end{acknowledgments}
+
+
+\end{document}
