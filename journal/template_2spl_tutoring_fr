@@ -1,0 +1,123 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%       GENERAL TEMPLATE SETTINGS           %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Do not change the settings!
+
+\documentclass[
+ reprint,
+ preprintnumbers,
+ nobibnotes,
+ nofootinbib,
+ longbibliography,
+ amsmath,amssymb,
+ aps,prl,
+ onecolumn
+]{revtex4-2}
+
+\usepackage[french]{babel}
+
+\renewcommand{\journalname}{Strasbourg Students Physical Letters}
+\renewcommand{\volumename}{X}
+\renewcommand{\numbername}{03xx}
+\newcommand{\header}{{\footnotesize\today} \hspace{8em} {\sc\journalname} \; {\bf\volumename},\; \numbername \; \hspace{9em} {\footnotesize CC-BY-SA 4.0}}
+
+% Definitions related to bibliography format
+\def\sspl{Stras.\ Stud.\ Phys.\ Lett.}%
+
+% amsmath and amssymb are charged by the document class
+\usepackage{physics}% Dirac notation, abreviations for derivatives, parentheses, etc.
+\usepackage{siunitx}% Normalised notations for physical units
+\usepackage{bm}% Bold mathematical characters like \bm\alpha
+\usepackage{chemfig}% Molecules in different representations, reaction mechanisms, etc.
+\usepackage{tikz-cd}% Algebraic diagrams
+\usepackage{graphicx,subcaption}% Include figure files
+\usepackage{dcolumn}% Align table columns on decimal point
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     END OF GENERAL TEMPLATE SETTINGS      %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%% PERSONAL COMMANDS AND PACKAGES %%%%
+%\usepackage{mypackage}
+%\input{mypreamble}
+%\newcommand{\mycommand}{}
+
+
+\begin{document}
+
+\preprint{\header}% Do not change this setting
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%                FRONTMATTER                %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Replace the fields with your title, name, etc. and remove the fields that you don't need
+
+\title{Modèle pour les notes de tutorat des 2SPL}
+\thanks{Organisé par le Pôle Tutorat de la Faculté de Physique et Ingénierie, Université de Strasbourg.}
+
+\author{Premier Auteur}
+%\email{email1@institution.org}% Facultative
+\affiliation{Faculté de Physique et Ingénierie, Université de Strasbourg}
+
+% \author{Second Auteur}
+% \email{email2@institution.org}% Facultative
+% \affiliation{Faculté de Physique et Ingénierie, Université de Strasbourg}
+
+% Replace the parts in brackets with the appropriate information
+\begin{abstract}
+    Notes pour la séance de tutorat du [1er avril 2026], sur le cours de [L1 mathématiques, L3 mécanique quantique...]. Sujets abordés~: [multiplication de matrices].
+\end{abstract}
+
+\maketitle
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%             END OF FRONTMATTER            %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\section{Titre de section}
+
+Les notes de tutorat peuvent être structurées comme le(s) auteur(s) le souhaite(nt).
+
+\section{Autre section}
+
+Les images (s'il y en a) sont attendues au format PDF, ou éventuellement en PNG ou JPG.
+
+% \begin{figure}
+%     \centering
+%     \includegraphics[width=\columnwidth]{figure.pdf}
+%     \caption{Légende}
+%     \label{fig:placeholder}
+% \end{figure}
+
+Des tables comme celles de la ref.~\ref{tab:gates} peuvent aussi être employées pour présenter des informations.
+
+\begin{table}[ht]
+\begin{ruledtabular}
+    \centering
+    \begin{tabular}{ccc}
+        Symbole & Définition & Nom \\ \hline
+        \multicolumn{3}{l}{\bf Portes qumode} \\ \hline
+        $\hat{D} (\xi)$ & $\exp( \xi  b^\dag - \xi^\ast b )$ & Déplacement \\
+        $\hat{R} (\theta)$ & $\exp( {\rm i} \theta  b^\dag b )$ & Rotation \\
+        $\hat{S} (\xi)$ & $\exp( \frac{1}{2} (\xi^\ast  b^2 - \xi b^{\dag2}) )$ & Compression \\
+        $\widehat{\rm BS}_{\alpha,\beta} (\theta,\varphi)$ & $\exp( \theta ( {\rm e}^{{\rm i}\varphi} b_\alpha b_\beta^\dag - {\rm e}^{-{\rm i}\varphi} b_\alpha^\dag b_\beta) )$ & Diviseur de faisceau \\ \hline
+        \multicolumn{3}{l}{{\bf Portes qubit-qumode}} \\ \hline
+        $\widehat{\rm CD}_{\alpha,i} (\xi)$ & $\exp( (\xi  b_\alpha^\dag - \xi^\ast b_\alpha) Z_i )$ & C. Déplacement
+    \end{tabular}
+    \caption{Quelques portes natives dans le {\em hardware} supraconducteur. $\xi\in\mathbb{C}$, $\theta\in [0;2\pi[$, $\varphi\in[0;\pi[$. $\alpha,\beta$ sont des indices de qumodes, $i,j$ sont des indices de qubits.}
+    \label{tab:gates}
+\end{ruledtabular}
+\end{table}
+
+
+
+% Facultative acknowledgment section
+% \begin{acknowledgments}
+%     Je souhaiterais remercier...
+% \end{acknowledgments}
+
+
+\end{document}
